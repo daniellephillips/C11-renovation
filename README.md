@@ -17,17 +17,7 @@ The C11 Boathouse is undergoing a renovation to modernize its facilities, improv
 - **[Meeting Notes](meetings/)**: Notes and action items from renovation planning meetings.
 - **[Issues & Improvements](issues.md)**: A log of any issues encountered and suggested improvements.
 
-## Getting Started
 
-To get started, explore the files and directories listed above. Each section contains detailed information and is regularly updated to reflect the latest developments in the renovation project.
-
-## Contributing
-
-Contributions to this repository are welcome! Whether you have suggestions for improvements, notice an issue, or want to contribute to the documentation, please feel free to submit a pull request or open an issue.
-
-## Contact
-
-If you have any questions or need further information, please contact the project manager at [email@example.com](mailto:email@example.com).
 
 ---
 
